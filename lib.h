@@ -5,4 +5,4 @@
 
 
 
-float maggiore(float array[], int dim);
+float max(float array[], int dim);
