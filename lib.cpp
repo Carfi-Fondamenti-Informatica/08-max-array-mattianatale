@@ -5,7 +5,7 @@
 #include "lib.h"
 using namespace std;
 float max(float array[], int dim){
-  for (int=0; i<dim; i++){
+  for (int i=0; i<dim; i++){
         if (array[0]>array[i]){
         }
         else{
