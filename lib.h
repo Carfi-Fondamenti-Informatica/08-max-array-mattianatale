@@ -1,2 +1,2 @@
 
-float maggiore(float array[], int dimensione);
+float maggiore(float vettore[], int n);
