@@ -2,11 +2,10 @@
 
 
 #include<iostream>
-using namespace std;
 #include "lib.h"
+using namespace std;
 float max(float array[], int dim){
-    int i=0;
-    for (; i<dimensione; i++){
+  for (i=0; i<dimensione; i++){
         if (array[0]>array[i]){
         }
         else{
