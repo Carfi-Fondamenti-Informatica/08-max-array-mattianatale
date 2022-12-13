@@ -1,3 +1,3 @@
 
 
-float maggiore(float array[], int dim);
+  float maggiore(float array[], int dim);
