@@ -1,8 +1,10 @@
 
+
+
 #include<iostream>
 using namespace std;
 #include "lib.h"
-float max(float array[], int dimensione){
+float max(float array[], int dim){
     int i=0;
     for (; i<dimensione; i++){
         if (array[0]>array[i]){
